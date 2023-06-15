@@ -1,0 +1,170 @@
+/* 
+Ecuador Guayaquil
+latitud:-2.1525012
+longuitud:-79.9801008
+
+https://www.google.com/maps/place/Guayaquil/@,,11z/data=!3m1!4b1!4m6!3m5!1s0x902d13cbe855805f:0x8015a492f4fca473!8m2!3d-2.1894128!4d-79.8890662!16zL20vMDFma250?entry=ttu
+
+https://www.google.com/maps/place/Mall+del+Sur,+Guayaquil+090202/@-2.2293523,-79.9033252,17z/data=!3m1!4b1!4m6!3m5!1s0x902d6fcac1d1dfc7:0x3a3205a3a7f44ede!8m2!3d-2.2293577!4d-79.8984543!16s%2Fg%2F12dpwkbf3?entry=ttu
+
+https://www.google.com/maps/place/Mall+del+Sol+Parqueos,+Guayaquil+090513/@-2.1547432,-79.8965072,17z/data=!3m1!4b1!4m6!3m5!1s0x902d6da17738a58b:0xabbfaa9c6645e80d!8m2!3d-2.1547486!4d-79.8939323!16s%2Fg%2F11fn9__8w7?entry=ttu
+
+https://www.google.com/maps/place/San+Marino+Shopping/@-2.1693423,-79.9034106,17z/data=!3m1!4b1!4m6!3m5!1s0x902d6d954eaea557:0x3e260b5088f0f25b!8m2!3d-2.1693477!4d-79.8985397!16s%2Fg%2F12dpwybfl?entry=ttu
+
+https://www.google.com/maps/place/C.C.+Policentro/@-2.1709222,-79.9028308,17z/data=!3m1!4b1!4m6!3m5!1s0x902d6deb2161e769:0x4ee2b57f093dead6!8m2!3d-2.1709276!4d-79.9002559!16s%2Fg%2F12dpwrj4_?entry=ttu
+
+https://www.google.com/maps/place/Malec%C3%B3n+2000/@-2.1938946,-79.890154,15z/data=!3m1!4b1!4m6!3m5!1s0x902d6e64c00a5ebf:0xb983f0134e08ebb!8m2!3d-2.1917649!4d-79.8794617!16s%2Fm%2F0281sdr?entry=ttu
+
+https://www.google.com/maps/place/Estadio+Monumental+Banco+Pichincha/@-2.185879,-79.9301239,17z/data=!3m1!4b1!4m6!3m5!1s0x902d6de02af55c39:0x70cf963126edbdf6!8m2!3d-2.1858844!4d-79.925253!16zL20vMDcyNm5r?entry=ttu
+
+https://www.google.com/maps/place/Playas+Villamil/@-2.6425579,-80.3901862,17z/data=!3m1!4b1!4m6!3m5!1s0x90326dc3ac799853:0x54fcafa050775e0f!8m2!3d-2.6425633!4d-80.3876113!16s%2Fg%2F11m9xrjbml?entry=ttu
+
+https://www.google.com/maps/place/Instituto+Superior+Tecnol%C3%B3gico+Guayaquil+Campus+CMI/@-2.1867667,-79.8910945,17z/data=!3m1!4b1!4m6!3m5!1s0x902d6dd5e4017fc9:0x5ea98615ba52674d!8m2!3d-2.1867721!4d-79.8885196!16s%2Fg%2F11ghtfj60c?entry=ttu
+
+
+https://www.google.com/maps/place/Bahia+De+Guayaquil/@-2.196415,-79.8893125,17z/data=!3m1!4b1!4m6!3m5!1s0x902d6f69cfea94d9:0x5cac2489710a845b!8m2!3d-2.1964204!4d-79.8844416!16s%2Fg%2F11gnsr0mj1?entry=ttu
+
+
+https://www.google.com/maps/place/Hospital+del+Ni%C3%B1o,+Dr+Francisco+de+Icaza+Bustamante/@-2.2032673,-79.8957807,17z/data=!3m1!4b1!4m6!3m5!1s0x902d6e6c71738b19:0x886619880eff2130!8m2!3d-2.2032727!4d-79.8932058!16s%2Fg%2F1ts30b5c?entry=ttu
+
+
+/* Malecon 2000
+latitud: -2.1938946
+longuitud: -79.890154
+
+/* Policentro 
+latitud: -2.1709222
+longuitud : -79.9028308
+
+/* Estadio monumental banco pinchinca Barcelona
+latitud: -2.185879
+longuitud: -79.9301239
+
+/* Bahia 
+latitud: -2.196415
+longuitud: -79.8893125
+
+hospital del niño 
+latitud: -2.2032673
+longuitud: -79.8957807
+
+/* CMI 
+latitud: -2.1867667
+longuitud: -79.8910945
+
+/*Playa Villamil
+latitud: -2.6425579
+longuitud: -80.3901862
+
+/* San Marino shopping 
+latitud:-2.1693423
+longuitud:-79.9034106
+
+*/Mall del Sol
+latitud:-2.1547432
+longuitud: -79.8965072
+
+*/Mall de Sur
+latitud:-2.2293523
+longuitud:-79.9033252
+
+   {
+        "id":2,
+        "nombre":"Parque Samanes",
+        "latitud":-2.1052,
+        "longuitud":-79.898
+    },
+    
+    {
+        "id":3,
+        "nombre":"Parque Centenario",
+        "latitud":-34.6063,
+        "longuitud":-58.4358
+    },
+    
+    {
+        "id":4,
+        "nombre":"Malecon 2000",
+        "latitud":-2.1850148,
+        "longuitud":-79.8759606
+    },
+    {
+        "id":5,
+        "nombre":"Universidad Politécnica Salesiana",
+        "latitud":-2.2206,
+        "longuitud":-79.88666
+    },
+
+
+
+
+*/
+
+if(isset($datosJson-> name)&& !empty($datosJson-> name) && isset($datosJson-> lastname)&& !empty($datosJson-> lastname)  )
+                  {
+                    $name = $datosJson-> name;
+                    $lastname = $datosJson-> lastname;
+                    $response['data']=$lastname;
+                }  
+
+                if(isset($datosJson->user) && !empty($datosJson->user) && isset($datosJson->email) && !empty($datosJson->email)&& filter_var($datosJson->email, FILTER_VALIDATE_EMAIL)){
+                    $user = $datosJson->user;
+                    $email = $datosJson->email;
+                }
+
+
+
+
+
+
+$name= $datos['name'];
+
+$lastname= $datos['lastname'];
+$user= $datos['user'];
+$email= $datos['email'];
+$password= Hash::make($datos['password']) ;
+$image= $datos['image'];
+$address= $datos['address'];
+$id_rol=$datos['id_rol'];
+if(isset($name) && !empty($name) && isset($lastname) && !empty($lastname) && isset($user) && !empty($user) && isset($email) && !empty($email) && filter_var($address, FILTER_VALIDATE_EMAIL) && isset($password) && !empty($password) && isset($image) && !empty($image) && isset($address) && !empty($address) && isset($id_rol) && !empty($id_rol) ){
+    // $userRegister = new User;
+    // $userRegister->name=$name;
+    // $userRegister->lastname=$lastname;
+    // $userRegister->user=$user;
+    // $userRegister->email=$email;
+    // $userRegister->password=$password;
+    // $userRegister->image=$image;
+    // $userRegister->address=$address;
+    // $userRegister->id_rol=$id_rol;
+    // $userRegister->save();
+    
+    $response["messages"]="datos Guardados";
+    // if($userRegister->save()){
+        
+    // }
+  
+
+    $lastname= $datosJson-> lastname;
+                $user= $datosJson-> user;
+                $email= $datosJson-> email;
+                $password= Hash::make($datosJson-> password) ;
+                $image= $datosJson-> image;
+                $address= $datosJson-> address;
+                $id_rol=$datosJson-> id_rol;
+
+
+
+
+}else{
+    $response["messages"]="No se Aceptan Campos vacios";    
+}   // $registroUser = new User() ;
+                // $registroUser->$datos;
+                $registroUser->name = json_decode($nombre);
+$registroUser->lastname= ;
+$registroUser->user=  ;
+$registroUser->email=  ;
+$registroUser->password=  ;
+$registroUser->image= ;
+$registroUser->address= ;
+$registroUser->id_rol= ;
+$registroUser->save();
